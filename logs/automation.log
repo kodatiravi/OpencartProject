@@ -1,0 +1,383 @@
+23:35:04.735 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** starting TC_001_Account_Registratin_One **********
+23:35:04.814 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on MyAccount link
+23:35:05.251 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on Registration link 
+23:35:17.087 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Providing customer details
+23:35:18.675 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - clicked on continued button........
+23:35:18.746 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - verifying confirmation message
+23:35:18.747 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - test passed.....
+23:35:18.750 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** finished TC_001_Account_Registratin_One **********
+23:59:37.326 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** starting TC_001_Account_Registratin_One **********
+23:59:37.389 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on MyAccount link
+23:59:37.716 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on Registration link 
+23:59:38.257 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Providing customer details
+23:59:39.707 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - clicked on continued button........
+23:59:39.762 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - verifying confirmation message
+23:59:39.762 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - test passed.....
+23:59:39.764 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** finished TC_001_Account_Registratin_One **********
+23:59:56.453 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** starting TC_001_Account_Registratin_One **********
+23:59:56.510 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on MyAccount link
+23:59:56.793 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on Registration link 
+23:59:57.470 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Providing customer details
+23:59:59.089 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - clicked on continued button........
+23:59:59.143 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - verifying confirmation message
+23:59:59.143 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - test passed.....
+23:59:59.146 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** finished TC_001_Account_Registratin_One **********
+00:06:59.610 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** starting TC_001_Account_Registratin_One **********
+00:06:59.657 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on MyAccount link
+00:06:59.995 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on Registration link 
+00:07:00.617 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Providing customer details
+00:07:02.070 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - clicked on continued button........
+00:07:02.130 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - verifying confirmation message
+00:07:02.130 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - test passed.....
+00:07:02.133 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** finished TC_001_Account_Registratin_One **********
+00:07:06.489 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** starting TC_001_Account_Registratin_One **********
+00:07:06.490 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on MyAccount link
+00:07:06.737 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on Registration link 
+00:07:07.442 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Providing customer details
+00:07:09.125 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - clicked on continued button........
+00:07:09.187 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - verifying confirmation message
+00:07:09.187 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - test passed.....
+00:07:09.187 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** finished TC_001_Account_Registratin_One **********
+00:07:44.743 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** starting TC_001_Account_Registratin_One **********
+00:07:44.798 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on MyAccount link
+00:07:45.343 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on Registration link 
+00:07:45.956 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Providing customer details
+00:07:47.415 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - clicked on continued button........
+00:07:47.472 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - verifying confirmation message
+00:07:47.472 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - test passed.....
+00:07:47.474 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** finished TC_001_Account_Registratin_One **********
+00:07:58.069 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** starting TC_001_Account_Registratin_One **********
+00:07:58.071 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on MyAccount link
+00:07:58.253 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on Registration link 
+00:08:00.172 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Providing customer details
+00:08:02.137 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - clicked on continued button........
+00:08:02.194 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - verifying confirmation message
+00:08:02.194 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - test passed.....
+00:08:02.194 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** finished TC_001_Account_Registratin_One **********
+00:12:26.142 [TestNG-tests-1] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** starting TC_001_Account_Registratin_One **********
+00:12:26.226 [TestNG-tests-2] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** starting TC_001_Account_Registratin_One **********
+00:12:26.245 [TestNG-tests-1] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on MyAccount link
+00:12:26.246 [TestNG-tests-2] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on MyAccount link
+00:12:26.793 [TestNG-tests-1] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on Registration link 
+00:12:26.904 [TestNG-tests-2] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on Registration link 
+00:12:27.547 [TestNG-tests-1] INFO  testCasesOne.TC_001_Account_Registratin_One - Providing customer details
+00:12:28.047 [TestNG-tests-2] INFO  testCasesOne.TC_001_Account_Registratin_One - Providing customer details
+00:12:29.869 [TestNG-tests-1] INFO  testCasesOne.TC_001_Account_Registratin_One - clicked on continued button........
+00:12:29.938 [TestNG-tests-1] INFO  testCasesOne.TC_001_Account_Registratin_One - verifying confirmation message
+00:12:29.938 [TestNG-tests-1] INFO  testCasesOne.TC_001_Account_Registratin_One - test passed.....
+00:12:29.941 [TestNG-tests-1] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** finished TC_001_Account_Registratin_One **********
+00:12:30.493 [TestNG-tests-2] INFO  testCasesOne.TC_001_Account_Registratin_One - clicked on continued button........
+00:12:30.559 [TestNG-tests-2] INFO  testCasesOne.TC_001_Account_Registratin_One - verifying confirmation message
+00:12:30.559 [TestNG-tests-2] INFO  testCasesOne.TC_001_Account_Registratin_One - test passed.....
+00:12:30.559 [TestNG-tests-2] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** finished TC_001_Account_Registratin_One **********
+09:12:27.066 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** starting TC_001_Account_Registratin_One **********
+09:12:27.121 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on MyAccount link
+09:12:27.593 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on Registration link 
+09:12:28.110 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Providing customer details
+09:12:29.509 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - clicked on continued button........
+09:12:29.575 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - verifying confirmation message
+09:12:29.575 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - test passed.....
+09:12:29.579 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** finished TC_001_Account_Registratin_One **********
+09:56:02.005 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** starting TC_001_Account_Registratin_One **********
+09:56:02.056 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on MyAccount link
+09:56:02.689 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on Registration link 
+09:56:03.472 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Providing customer details
+09:56:05.166 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - clicked on continued button........
+09:56:05.226 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - verifying confirmation message
+09:56:05.227 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - test passed.....
+09:56:05.229 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** finished TC_001_Account_Registratin_One **********
+09:57:27.725 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** starting TC_001_Account_Registratin_One **********
+09:57:27.778 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on MyAccount link
+09:57:28.462 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on Registration link 
+09:57:28.953 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Providing customer details
+09:57:30.156 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - clicked on continued button........
+09:57:47.617 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - verifying confirmation message
+09:57:47.618 [main] WARN  testCasesOne.TC_001_Account_Registratin_One - Customer registration is not successful
+09:57:47.618 [main] ERROR testCasesOne.TC_001_Account_Registratin_One - test failed.....
+12:22:26.526 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** starting TC_001_Account_Registratin_One **********
+12:22:26.600 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on MyAccount link
+12:22:27.026 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on Registration link 
+12:22:27.631 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Providing customer details
+12:22:28.983 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - clicked on continued button........
+12:22:59.085 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - verifying confirmation message
+12:22:59.085 [main] WARN  testCasesOne.TC_001_Account_Registratin_One - Customer registration is not successful
+12:22:59.086 [main] ERROR testCasesOne.TC_001_Account_Registratin_One - test failed.....
+13:28:39.131 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** starting TC_001_Account_Registratin_One **********
+13:28:39.185 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on MyAccount link
+13:28:39.363 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on Registration link 
+13:28:40.004 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Providing customer details
+13:28:41.514 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - clicked on continued button........
+13:28:41.571 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - verifying confirmation message
+13:28:41.571 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - test passed.....
+13:28:41.575 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** finished TC_001_Account_Registratin_One **********
+13:28:46.248 [main] INFO  testCasesOne.TC_002_LoginTestOne -  started  TC_002_LoginTestOne....
+13:28:46.250 [main] INFO  testCasesOne.TC_002_LoginTestOne - clicked on MyAccount page
+13:28:46.428 [main] INFO  testCasesOne.TC_002_LoginTestOne - clicked on Login page
+13:28:46.885 [main] INFO  testCasesOne.TC_002_LoginTestOne - entered email id
+13:28:47.106 [main] INFO  testCasesOne.TC_002_LoginTestOne - entered password 
+13:28:47.257 [main] INFO  testCasesOne.TC_002_LoginTestOne - clicked on Login button
+13:30:01.190 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** starting TC_001_Account_Registratin_One **********
+13:30:01.259 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on MyAccount link
+13:30:01.377 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on Registration link 
+13:30:02.266 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Providing customer details
+13:30:03.978 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - clicked on continued button........
+13:30:04.055 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - verifying confirmation message
+13:30:04.056 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - test passed.....
+13:30:04.059 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** finished TC_001_Account_Registratin_One **********
+13:30:08.428 [main] INFO  testCasesOne.TC_002_LoginTestOne -  started  TC_002_LoginTestOne....
+13:30:08.429 [main] INFO  testCasesOne.TC_002_LoginTestOne - clicked on MyAccount page
+13:30:08.782 [main] INFO  testCasesOne.TC_002_LoginTestOne - clicked on Login page
+13:30:09.260 [main] INFO  testCasesOne.TC_002_LoginTestOne - entered email id
+13:30:09.454 [main] INFO  testCasesOne.TC_002_LoginTestOne - entered password 
+13:30:09.598 [main] INFO  testCasesOne.TC_002_LoginTestOne - clicked on Login button
+13:30:10.414 [main] INFO  testCasesOne.TC_002_LoginTestOne - displayed My Account successfully after logging into the account 
+13:30:10.414 [main] INFO  testCasesOne.TC_002_LoginTestOne - finished TC_002_LoginTestOne ......
+15:18:33.505 [main] INFO  testCasesOne.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:18:35.521 [main] INFO  testCasesOne.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:18:35.550 [main] INFO  testCasesOne.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:19:05.929 [main] INFO  testCasesOne.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:20:31.772 [main] INFO  testCasesOne.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:20:33.480 [main] INFO  testCasesOne.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:20:33.525 [main] INFO  testCasesOne.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:21:03.941 [main] INFO  testCasesOne.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:21:34.253 [main] INFO  testCasesOne.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:22:04.520 [main] INFO  testCasesOne.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:49:38.633 [main] INFO  testCasesOne.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:49:40.566 [main] INFO  testCasesOne.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+15:49:40.596 [main] INFO  testCasesOne.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:50:10.964 [main] INFO  testCasesOne.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:50:41.270 [main] INFO  testCasesOne.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+15:51:11.551 [main] INFO  testCasesOne.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:01:56.419 [main] INFO  testCasesOne.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:01:58.286 [main] INFO  testCasesOne.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+16:01:58.317 [main] INFO  testCasesOne.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:02:28.689 [main] INFO  testCasesOne.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:02:59.038 [main] INFO  testCasesOne.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:03:29.340 [main] INFO  testCasesOne.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:18:02.489 [main] INFO  testCasesOne.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:18:34.762 [main] INFO  testCasesOne.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:19:05.106 [main] INFO  testCasesOne.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:19:35.382 [main] INFO  testCasesOne.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:20:05.674 [main] INFO  testCasesOne.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:23:39.814 [main] INFO  testCasesOne.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:24:11.619 [main] INFO  testCasesOne.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:24:41.927 [main] INFO  testCasesOne.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:25:12.215 [main] INFO  testCasesOne.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:25:42.509 [main] INFO  testCasesOne.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+19:27:36.392 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** starting TC_001_Account_Registratin_One **********
+19:27:36.462 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on MyAccount link
+19:27:37.097 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on Registration link 
+19:27:37.697 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Providing customer details
+19:27:39.220 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - clicked on continued button........
+19:27:39.279 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - verifying confirmation message
+19:27:39.279 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - test passed.....
+19:27:39.282 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** finished TC_001_Account_Registratin_One **********
+19:27:43.551 [main] INFO  testCasesOne.TC_002_LoginTestOne -  started  TC_002_LoginTestOne....
+19:27:43.553 [main] INFO  testCasesOne.TC_002_LoginTestOne - clicked on MyAccount page
+19:27:43.802 [main] INFO  testCasesOne.TC_002_LoginTestOne - clicked on Login page
+19:27:44.249 [main] INFO  testCasesOne.TC_002_LoginTestOne - entered email id
+19:27:44.441 [main] INFO  testCasesOne.TC_002_LoginTestOne - entered password 
+19:27:44.585 [main] INFO  testCasesOne.TC_002_LoginTestOne - clicked on Login button
+19:27:45.311 [main] INFO  testCasesOne.TC_002_LoginTestOne - displayed My Account successfully after logging into the account 
+19:27:45.311 [main] INFO  testCasesOne.TC_002_LoginTestOne - finished TC_002_LoginTestOne ......
+20:02:48.395 [main] INFO  testCasesOne.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:03:00.505 [main] INFO  testCasesOne.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:03:10.832 [main] INFO  testCasesOne.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:03:21.088 [main] INFO  testCasesOne.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:03:31.354 [main] INFO  testCasesOne.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:06:12.924 [main] INFO  testCasesOne.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:06:25.125 [main] INFO  testCasesOne.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:06:35.428 [main] INFO  testCasesOne.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:06:45.695 [main] INFO  testCasesOne.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:06:55.997 [main] INFO  testCasesOne.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:18:51.992 [main] INFO  testCasesOne.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:19:03.825 [main] INFO  testCasesOne.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:19:14.159 [main] INFO  testCasesOne.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:19:24.420 [main] INFO  testCasesOne.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+20:19:34.671 [main] INFO  testCasesOne.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+19:40:41.986 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** starting TC_001_Account_Registratin_One **********
+19:40:42.039 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on MyAccount link
+19:40:42.170 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on Registration link 
+19:40:42.715 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Providing customer details
+19:40:44.529 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - clicked on continued button........
+19:40:44.611 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - verifying confirmation message
+19:40:44.611 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - test passed.....
+19:40:44.616 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** finished TC_001_Account_Registratin_One **********
+19:40:51.467 [main] INFO  testCasesOne.TC_002_LoginTestOne -  started  TC_002_LoginTestOne....
+19:40:51.468 [main] INFO  testCasesOne.TC_002_LoginTestOne - clicked on MyAccount page
+19:40:51.633 [main] INFO  testCasesOne.TC_002_LoginTestOne - clicked on Login page
+19:40:52.128 [main] INFO  testCasesOne.TC_002_LoginTestOne - entered email id
+19:40:52.364 [main] INFO  testCasesOne.TC_002_LoginTestOne - entered password 
+19:40:52.514 [main] INFO  testCasesOne.TC_002_LoginTestOne - clicked on Login button
+19:40:53.308 [main] INFO  testCasesOne.TC_002_LoginTestOne - displayed My Account successfully after logging into the account 
+19:40:53.308 [main] INFO  testCasesOne.TC_002_LoginTestOne - finished TC_002_LoginTestOne ......
+19:42:59.704 [main] INFO  testCasesOne.TC_002_LoginTestOne -  started  TC_002_LoginTestOne....
+19:42:59.771 [main] INFO  testCasesOne.TC_002_LoginTestOne - clicked on MyAccount page
+19:42:59.896 [main] INFO  testCasesOne.TC_002_LoginTestOne - clicked on Login page
+19:43:00.365 [main] INFO  testCasesOne.TC_002_LoginTestOne - entered email id
+19:43:00.593 [main] INFO  testCasesOne.TC_002_LoginTestOne - entered password 
+19:43:00.753 [main] INFO  testCasesOne.TC_002_LoginTestOne - clicked on Login button
+19:43:01.703 [main] INFO  testCasesOne.TC_002_LoginTestOne - displayed My Account successfully after logging into the account 
+19:43:01.704 [main] INFO  testCasesOne.TC_002_LoginTestOne - finished TC_002_LoginTestOne ......
+19:44:15.046 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** starting TC_001_Account_Registratin_One **********
+19:44:15.107 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on MyAccount link
+19:44:15.676 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on Registration link 
+19:44:16.174 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Providing customer details
+19:44:17.622 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - clicked on continued button........
+19:44:17.679 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - verifying confirmation message
+19:44:17.679 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - test passed.....
+19:44:17.683 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** finished TC_001_Account_Registratin_One **********
+19:21:19.401 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** starting TC_001_Account_Registratin_One **********
+19:21:19.467 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on MyAccount link
+19:21:19.997 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on Registration link 
+19:21:20.589 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Providing customer details
+19:21:22.115 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - clicked on continued button........
+19:21:22.174 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - verifying confirmation message
+19:21:22.175 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - test passed.....
+19:21:22.178 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** finished TC_001_Account_Registratin_One **********
+19:21:26.682 [main] INFO  testCasesOne.TC_002_LoginTestOne -  started  TC_002_LoginTestOne....
+19:21:26.687 [main] INFO  testCasesOne.TC_002_LoginTestOne - clicked on MyAccount page
+19:21:26.932 [main] INFO  testCasesOne.TC_002_LoginTestOne - clicked on Login page
+19:21:27.402 [main] INFO  testCasesOne.TC_002_LoginTestOne - entered email id
+19:21:27.617 [main] INFO  testCasesOne.TC_002_LoginTestOne - entered password 
+19:21:27.771 [main] INFO  testCasesOne.TC_002_LoginTestOne - clicked on Login button
+19:21:28.293 [main] INFO  testCasesOne.TC_002_LoginTestOne - displayed My Account successfully after logging into the account 
+19:21:28.293 [main] INFO  testCasesOne.TC_002_LoginTestOne - finished TC_002_LoginTestOne ......
+19:22:28.217 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** starting TC_001_Account_Registratin_One **********
+19:22:28.268 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on MyAccount link
+19:22:28.853 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on Registration link 
+19:22:29.887 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Providing customer details
+19:22:31.287 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - clicked on continued button........
+19:22:31.344 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - verifying confirmation message
+19:22:31.344 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - test passed.....
+19:22:31.347 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** finished TC_001_Account_Registratin_One **********
+19:22:36.900 [main] INFO  testCasesOne.TC_002_LoginTestOne -  started  TC_002_LoginTestOne....
+19:22:36.901 [main] INFO  testCasesOne.TC_002_LoginTestOne - clicked on MyAccount page
+19:22:37.020 [main] INFO  testCasesOne.TC_002_LoginTestOne - clicked on Login page
+19:22:37.520 [main] INFO  testCasesOne.TC_002_LoginTestOne - entered email id
+19:22:37.726 [main] INFO  testCasesOne.TC_002_LoginTestOne - entered password 
+19:22:37.888 [main] INFO  testCasesOne.TC_002_LoginTestOne - clicked on Login button
+19:22:38.464 [main] INFO  testCasesOne.TC_002_LoginTestOne - displayed My Account successfully after logging into the account 
+19:22:38.464 [main] INFO  testCasesOne.TC_002_LoginTestOne - finished TC_002_LoginTestOne ......
+19:24:13.472 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** starting TC_001_Account_Registratin_One **********
+19:24:13.526 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on MyAccount link
+19:24:14.068 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on Registration link 
+19:24:14.757 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Providing customer details
+19:24:16.324 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - clicked on continued button........
+19:24:16.379 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - verifying confirmation message
+19:24:16.379 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - test passed.....
+19:24:16.381 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** finished TC_001_Account_Registratin_One **********
+19:24:20.692 [main] INFO  testCasesOne.TC_002_LoginTestOne -  started  TC_002_LoginTestOne....
+19:24:20.694 [main] INFO  testCasesOne.TC_002_LoginTestOne - clicked on MyAccount page
+19:24:20.694 [main] INFO  testCasesOne.TC_002_LoginTestOne - clicked on Login page
+19:39:31.564 [main] INFO  testCasesOne.TC_002_LoginTestOne -  started  TC_002_LoginTestOne....
+19:39:31.607 [main] INFO  testCasesOne.TC_002_LoginTestOne - clicked on MyAccount page
+19:39:32.295 [main] INFO  testCasesOne.TC_002_LoginTestOne - clicked on Login page
+19:39:32.614 [main] INFO  testCasesOne.TC_002_LoginTestOne - entered email id
+19:39:32.846 [main] INFO  testCasesOne.TC_002_LoginTestOne - entered password 
+19:39:33.010 [main] INFO  testCasesOne.TC_002_LoginTestOne - clicked on Login button
+19:39:33.523 [main] INFO  testCasesOne.TC_002_LoginTestOne - displayed My Account successfully after logging into the account 
+19:39:33.525 [main] INFO  testCasesOne.TC_002_LoginTestOne - finished TC_002_LoginTestOne ......
+19:40:38.497 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** starting TC_001_Account_Registratin_One **********
+19:40:38.547 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on MyAccount link
+19:40:38.548 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on Registration link 
+19:40:52.785 [main] INFO  testCasesOne.TC_002_LoginTestOne -  started  TC_002_LoginTestOne....
+19:40:52.786 [main] INFO  testCasesOne.TC_002_LoginTestOne - clicked on MyAccount page
+19:40:53.503 [main] INFO  testCasesOne.TC_002_LoginTestOne - clicked on Login page
+19:40:53.510 [main] INFO  testCasesOne.TC_002_LoginTestOne - entered email id
+19:42:35.256 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** starting TC_001_Account_Registratin_One **********
+19:42:35.328 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on MyAccount link
+19:42:35.496 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on Registration link 
+19:42:36.228 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Providing customer details
+19:42:37.897 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - clicked on continued button........
+19:42:37.969 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - verifying confirmation message
+19:42:37.969 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - test passed.....
+19:42:37.972 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** finished TC_001_Account_Registratin_One **********
+19:42:41.854 [main] INFO  testCasesOne.TC_002_LoginTestOne -  started  TC_002_LoginTestOne....
+19:42:41.855 [main] INFO  testCasesOne.TC_002_LoginTestOne - clicked on MyAccount page
+19:42:42.327 [main] INFO  testCasesOne.TC_002_LoginTestOne - clicked on Login page
+19:42:42.779 [main] INFO  testCasesOne.TC_002_LoginTestOne - entered email id
+19:42:42.981 [main] INFO  testCasesOne.TC_002_LoginTestOne - entered password 
+19:42:43.144 [main] INFO  testCasesOne.TC_002_LoginTestOne - clicked on Login button
+19:42:43.706 [main] INFO  testCasesOne.TC_002_LoginTestOne - displayed My Account successfully after logging into the account 
+19:42:43.707 [main] INFO  testCasesOne.TC_002_LoginTestOne - finished TC_002_LoginTestOne ......
+20:15:43.660 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** starting TC_001_Account_Registratin_One **********
+20:15:43.707 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on MyAccount link
+20:15:43.816 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on Registration link 
+20:15:44.673 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Providing customer details
+20:15:46.439 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - clicked on continued button........
+20:15:46.501 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - verifying confirmation message
+20:15:46.502 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - test passed.....
+20:15:46.505 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** finished TC_001_Account_Registratin_One **********
+20:15:52.367 [main] INFO  testCasesOne.TC_002_LoginTestOne -  started  TC_002_LoginTestOne....
+20:15:52.368 [main] INFO  testCasesOne.TC_002_LoginTestOne - clicked on MyAccount page
+20:15:52.481 [main] INFO  testCasesOne.TC_002_LoginTestOne - clicked on Login page
+20:15:52.822 [main] INFO  testCasesOne.TC_002_LoginTestOne - entered email id
+20:15:53.047 [main] INFO  testCasesOne.TC_002_LoginTestOne - entered password 
+20:15:53.197 [main] INFO  testCasesOne.TC_002_LoginTestOne - clicked on Login button
+20:15:53.673 [main] INFO  testCasesOne.TC_002_LoginTestOne - displayed My Account successfully after logging into the account 
+20:15:53.673 [main] INFO  testCasesOne.TC_002_LoginTestOne - finished TC_002_LoginTestOne ......
+21:43:13.063 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** starting TC_001_Account_Registratin_One **********
+21:43:13.128 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on MyAccount link
+21:43:13.546 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on Registration link 
+21:43:14.134 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Providing customer details
+21:43:15.557 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - clicked on continued button........
+21:43:15.619 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - verifying confirmation message
+21:43:15.619 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - test passed.....
+21:43:15.623 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** finished TC_001_Account_Registratin_One **********
+21:43:26.814 [main] INFO  testCasesOne.TC_002_LoginTestOne -  started  TC_002_LoginTestOne....
+21:43:26.814 [main] INFO  testCasesOne.TC_002_LoginTestOne - clicked on MyAccount page
+21:43:26.930 [main] INFO  testCasesOne.TC_002_LoginTestOne - clicked on Login page
+21:43:27.421 [main] INFO  testCasesOne.TC_002_LoginTestOne - entered email id
+21:43:27.627 [main] INFO  testCasesOne.TC_002_LoginTestOne - entered password 
+21:43:27.773 [main] INFO  testCasesOne.TC_002_LoginTestOne - clicked on Login button
+21:43:28.586 [main] INFO  testCasesOne.TC_002_LoginTestOne - displayed My Account successfully after logging into the account 
+21:43:28.586 [main] INFO  testCasesOne.TC_002_LoginTestOne - finished TC_002_LoginTestOne ......
+22:46:35.582 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** starting TC_001_Account_Registratin_One **********
+22:46:35.632 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on MyAccount link
+22:46:35.784 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on Registration link 
+22:46:36.273 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Providing customer details
+22:46:37.670 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - clicked on continued button........
+22:46:37.728 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - verifying confirmation message
+22:46:37.729 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - test passed.....
+22:46:37.732 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** finished TC_001_Account_Registratin_One **********
+22:46:42.001 [main] INFO  testCasesOne.TC_002_LoginTestOne -  started  TC_002_LoginTestOne....
+22:46:42.001 [main] INFO  testCasesOne.TC_002_LoginTestOne - clicked on MyAccount page
+22:46:42.303 [main] INFO  testCasesOne.TC_002_LoginTestOne - clicked on Login page
+22:46:42.743 [main] INFO  testCasesOne.TC_002_LoginTestOne - entered email id
+22:46:43.008 [main] INFO  testCasesOne.TC_002_LoginTestOne - entered password 
+22:46:43.147 [main] INFO  testCasesOne.TC_002_LoginTestOne - clicked on Login button
+22:46:43.864 [main] INFO  testCasesOne.TC_002_LoginTestOne - displayed My Account successfully after logging into the account 
+22:46:43.865 [main] INFO  testCasesOne.TC_002_LoginTestOne - finished TC_002_LoginTestOne ......
+22:57:42.383 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** starting TC_001_Account_Registratin_One **********
+22:57:42.440 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on MyAccount link
+22:57:43.084 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on Registration link 
+22:57:43.690 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Providing customer details
+22:57:45.224 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - clicked on continued button........
+22:57:45.286 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - verifying confirmation message
+22:57:45.287 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - test passed.....
+22:57:45.290 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** finished TC_001_Account_Registratin_One **********
+22:57:48.300 [main] INFO  testCasesOne.TC_002_LoginTestOne -  started  TC_002_LoginTestOne....
+22:57:48.301 [main] INFO  testCasesOne.TC_002_LoginTestOne - clicked on MyAccount page
+22:57:49.042 [main] INFO  testCasesOne.TC_002_LoginTestOne - clicked on Login page
+22:57:49.419 [main] INFO  testCasesOne.TC_002_LoginTestOne - entered email id
+22:57:49.654 [main] INFO  testCasesOne.TC_002_LoginTestOne - entered password 
+22:57:49.819 [main] INFO  testCasesOne.TC_002_LoginTestOne - clicked on Login button
+22:57:50.300 [main] INFO  testCasesOne.TC_002_LoginTestOne - displayed My Account successfully after logging into the account 
+22:57:50.300 [main] INFO  testCasesOne.TC_002_LoginTestOne - finished TC_002_LoginTestOne ......
+23:00:51.639 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** starting TC_001_Account_Registratin_One **********
+23:00:51.707 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on MyAccount link
+23:00:51.875 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Clicking on Registration link 
+23:00:52.771 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - Providing customer details
+23:00:54.497 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - clicked on continued button........
+23:00:54.558 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - verifying confirmation message
+23:00:54.558 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - test passed.....
+23:00:54.562 [main] INFO  testCasesOne.TC_001_Account_Registratin_One - ********** finished TC_001_Account_Registratin_One **********
+23:00:59.211 [main] INFO  testCasesOne.TC_002_LoginTestOne -  started  TC_002_LoginTestOne....
+23:00:59.212 [main] INFO  testCasesOne.TC_002_LoginTestOne - clicked on MyAccount page
+23:00:59.365 [main] INFO  testCasesOne.TC_002_LoginTestOne - clicked on Login page
+23:00:59.922 [main] INFO  testCasesOne.TC_002_LoginTestOne - entered email id
+23:01:00.140 [main] INFO  testCasesOne.TC_002_LoginTestOne - entered password 
+23:01:00.313 [main] INFO  testCasesOne.TC_002_LoginTestOne - clicked on Login button
+23:01:01.114 [main] INFO  testCasesOne.TC_002_LoginTestOne - displayed My Account successfully after logging into the account 
+23:01:01.114 [main] INFO  testCasesOne.TC_002_LoginTestOne - finished TC_002_LoginTestOne ......
