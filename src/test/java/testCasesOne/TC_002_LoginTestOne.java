@@ -7,6 +7,8 @@ import testBaseOne.BaseClassOne;
 import pageObjectsOne.HomePageOne;
 import pageObjectsOne.LoginPageOne;
 import pageObjectsOne.MyAccountPageOne;
+
+// login test...
 public class TC_002_LoginTestOne extends BaseClassOne {
 	
 	@Test(groups= {"Sanity","Master"}) //Step8 groups added
